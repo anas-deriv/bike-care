@@ -208,3 +208,5 @@ build/ios/iphonesimulator/Runner.app/Info.plist
 build/ios/iphonesimulator/Runner.app/PkgInfo
 build/ios/iphonesimulator/Runner.app/Runner
 .dart_tool/package_config.json
+.dart_tool/version
+.dart_tool/dartpad/web_plugin_registrant.dart
